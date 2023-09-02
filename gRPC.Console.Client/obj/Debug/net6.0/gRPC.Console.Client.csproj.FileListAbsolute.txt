@@ -1,0 +1,2 @@
+D:\GRPC test\gRPC.Console.Client\obj\Debug\net6.0\gRPC.Console.Client.csproj.AssemblyReference.cache
+D:\GRPC test\gRPC.Console.Client\obj\Debug\net6.0\gRPC.Console.Client.GeneratedMSBuildEditorConfig.editorconfig

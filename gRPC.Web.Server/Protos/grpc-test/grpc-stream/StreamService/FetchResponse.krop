@@ -1,0 +1,13 @@
+{
+  "details": {
+    "methodFqn": "StreamService.FetchResponse"
+  },
+  "requests": [
+    {
+      "location": "FetchResponse-request.json"
+    }
+  ],
+  "operationType": "serverStreaming",
+  "invokerName": "grpc",
+  "importStreamId": "a913b56d-2267-4ab3-9f79-57c39f2ffda4"
+}
